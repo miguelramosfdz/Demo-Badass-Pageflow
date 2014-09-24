@@ -1,0 +1,20 @@
+# OSX files
+.DS_Store
+
+# build stuff
+build.log
+build
+dist
+plugins
+Resources
+tmp
+
+# npm stuff
+node_modules
+npm-debug.log
+
+# editors stuff
+.map
+.project
+.settings
+

@@ -1,0 +1,5 @@
+"#nextpage": {
+    width: Ti.UI.FILL,
+    height: Ti.UI.FILL,
+    backgroundColor: '#00A150'
+}
